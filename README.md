@@ -7,7 +7,7 @@
 
 | Rev. 버전 | 주요 변경 사항 |
 |-----------|----------------|
-| **V1.0.0** | - PCAN-Basic 라이브러리 연동<br>- ROS2 Humble publisher / subscriber, msgs 생성<br>- ROS2 Humble 호환성 확인 |
+| **V1.0.0** | - PCAN-Basic 라이브러리 연동<br>- ROS2 foxy publisher / subscriber, msgs 생성<br>- ROS2 foxy 호환성 확인 |
 | **V1.0.1** | - pcan-config.yaml 연동<br>- pcan-node, main_program 구현<br>- PID gain 입력 설계 |
 | **V1.1.0** | - pcan-node for VCU 구현<br>- 실행파일 (*.sh) 생성 |
 | **V1.1.1** | - README.md 생성 |
